@@ -1,0 +1,36 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#FAFAFA"
+    android:layout_height="match_parent"
+    tools:context="com.example.samuel.starhelper.FragmentUnitsDescription">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/textViewNewsDescription"
+        android:layout_width="333dp"
+        android:layout_height="264dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.736"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewUnitsDescription"
+        app:layout_constraintVertical_bias="0.021"
+        android:layout_marginRight="8dp" />
+
+    <ImageView
+        android:id="@+id/imageViewUnitsDescription"
+        android:layout_width="332dp"
+        android:layout_height="206dp"
+        app:srcCompat="@drawable/zergling"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="16dp" />
+
+</android.support.constraint.ConstraintLayout>

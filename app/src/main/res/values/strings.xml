@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">StarHelper</string>
+    <string name="youtube_api_key">"AIzaSyAYSKwntcCsoBUaTlJAuMp6UDGs6u0jc40"</string>
+    <string name="title_activity_gas_timer">gas_timer</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_application_id" translatable="false">1072941552787553 </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Units_array_zerg">
+        <item>Select Unit To Add</item>
+        <item>Drone</item>
+        <item>Gas Drone</item>
+        <item>Zergling</item>
+        <item>Overlord</item>
+        <item>Hydralisk</item>
+        <item>Hatchery</item>
+        <item>Spawning Pool</item>
+        <item>Hydralisk Den</item>
+        <item>Extractor</item>
+    </string-array>
+    <string-array name="Units_array_terran">
+        <item>Select Unit To Add</item>
+        <item>Scv</item>
+        <item>Gas Scv</item>
+        <item>Marine</item>
+        <item>Firebat</item>
+        <item>Medic</item>
+        <item>Supply Depot</item>
+        <item>Refinery</item>
+        <item>Barracks</item>
+        <item>Bunker</item>
+        <item>Command Center</item>
+    </string-array>
+    <string-array name="Units_array_protoss">
+        <item>Select Unit To Add</item>
+        <item>Probe</item>
+        <item>Gas Probe</item>
+        <item>Zealot</item>
+        <item>Dragoon</item>
+        <item>High Templar</item>
+        <item>Dark Templar</item>
+        <item>Nexus</item>
+        <item>Gateway</item>
+        <item>Pylon</item>
+        <item>Assimilator</item>
+    </string-array>
+</resources>

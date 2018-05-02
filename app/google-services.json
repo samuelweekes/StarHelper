@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "663527775640",
+    "firebase_url": "https://starhelper-ec1d8.firebaseio.com",
+    "project_id": "starhelper-ec1d8",
+    "storage_bucket": "starhelper-ec1d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663527775640:android:0a4e3d688e65a850",
+        "android_client_info": {
+          "package_name": "com.example.samuel.starhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663527775640-r18h7bu5dc2aeee7offge77finf7e1db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samuel.starhelper",
+            "certificate_hash": "9eccd1f0e3848d5706ef681ec998c9cb0bf7d470"
+          }
+        },
+        {
+          "client_id": "663527775640-7m2qe6p9m8i7rmjc7ovbvsdlhhhamh72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYSKwntcCsoBUaTlJAuMp6UDGs6u0jc40"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663527775640-7m2qe6p9m8i7rmjc7ovbvsdlhhhamh72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
