@@ -1,6 +1,6 @@
 # StarHelper
 
-Solo dissertation project for Msc.
+Solo dissertation project for MSc.
 
 Android application built predominantly using Java.
 
